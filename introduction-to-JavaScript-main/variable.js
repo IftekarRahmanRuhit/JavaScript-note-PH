@@ -12,10 +12,6 @@ console.log(money);
 console.log(price);
 
 
-
-
-
-
 var age = 17;
 age = 35;
 
